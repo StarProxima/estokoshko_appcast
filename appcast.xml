@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Есть окошко - Appcast</title>
+<!--         <item>
+            <title>Version 0.7.0</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Tue, 02 May 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/StarProxima/cube/releases/tag/v0.7" sparkle:version="0.7.0" sparkle:os="windows"/>
+        </item>
+        <item>
+            <title>Version 0.8.2</title>
+            <description>Небольшие исправления и улучшения.</description>
+            <pubDate>Tue, 05 May 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.nullexp.cube_system" sparkle:version="0.8.2" sparkle:os="android" />
+        </item>
+        <item>
+            <title>Version 1.1.1</title>
+            <description>Небольшие исправления и улучшения.</description>
+            <pubDate>Tue, 12 September 2023 20:30:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.nullexp.cube_system" sparkle:version="1.1.1" sparkle:os="android" />
+        </item>
+        <item>
+            <title>Version 1.1.4</title>
+            <description>Небольшие исправления и улучшения</description>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.nullexp.cube_system" sparkle:version="1.1.4" sparkle:os="android" />
+        </item>
+
+        <item>
+            <title>Версия 1.2.2</title>
+            <description>Minor updates and improvements.</description>
+            <enclosure url="https://github.com/StarProxima/cube/releases/tag/v0.7" sparkle:version="1.2.2" sparkle:os="windows"/>
+        </item> -->
+        <item>
+            <title>Версия 1.2.1</title>
+            <description>Небольшие исправления и улучшения</description>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.nullexp.cube_system" sparkle:version="1.2.1" sparkle:os="android" />
+        </item>
+        <item>
+            <title>Версия 1.2.1</title>
+            <description>Небольшие исправления и улучшения</description>
+            <enclosure url="https://apps.apple.com/us/app/куб-расписание/id6448701011" sparkle:version="1.2.1" sparkle:os="ios" />
+        </item>
+
+    </channel>
+</rss>
