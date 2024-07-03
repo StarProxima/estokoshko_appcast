@@ -32,14 +32,14 @@
             <enclosure url="https://github.com/StarProxima/cube/releases/tag/v0.7" sparkle:version="1.2.2" sparkle:os="windows"/>
         </item> -->
         <item>
-            <title>Версия 1.2.1</title>
+            <title>Версия 1.2.0</title>
             <description>Небольшие исправления и улучшения</description>
-            <enclosure url="https://play.google.com/store/apps/details?id=team.xdev.estokoshko.master" sparkle:version="1.2.1" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=team.xdev.estokoshko.master" sparkle:version="1.2.0" sparkle:os="android" />
         </item>
         <item>
-            <title>Версия 1.2.1</title>
+            <title>Версия 1.2.0</title>
             <description>Небольшие исправления и улучшения</description>
-            <enclosure url="https://apps.apple.com/ru/app/есть-окошко/id6479521954" sparkle:version="1.2.1" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/ru/app/есть-окошко/id6479521954" sparkle:version="1.2.0" sparkle:os="ios" />
         </item>
 
     </channel>
