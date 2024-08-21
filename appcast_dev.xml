@@ -17,7 +17,7 @@
 6. Быстрое создание клиента при записи
 7. Перенос и редактирование несостоявшихся записей
 8. Записи задним числом</description>
-            <enclosure url="https://apps.apple.com/ru/app/есть-окошко/id6479521954" sparkle:version="1.4.0" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/ru/app/есть-окошко/id6479521954" sparkle:version="1.4.0" sparkle:os="android" />
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
