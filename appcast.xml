@@ -6,17 +6,17 @@
             <title>Версия 1.6.0</title>
             <description>Для продолжения использования функций приложения, пожалуйста, обновите его до последней версии</description>
             <enclosure url="https://play.google.com/store/apps/details?id=team.xdev.estokoshko.master" sparkle:version="1.6.0" sparkle:os="android" />
-            <sparkle:tags>
+<!--             <sparkle:tags>
                 <sparkle:criticalUpdate/>
-            </sparkle:tags>
+            </sparkle:tags> -->
         </item>
         <item>
             <title>Версия 1.6.0</title>
             <description>Для продолжения использования функций приложения, пожалуйста, обновите его до последней версии</description>
             <enclosure url="https://apps.apple.com/ru/app/есть-окошко/id6479521954" sparkle:version="1.6.0" sparkle:os="ios" />
-            <sparkle:tags>
+<!--             <sparkle:tags>
                 <sparkle:criticalUpdate/>
-            </sparkle:tags>
+            </sparkle:tags> -->
         </item>
     </channel>
 </rss>
